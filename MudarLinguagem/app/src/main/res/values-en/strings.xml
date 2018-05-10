@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Change Language</string>
+    <string name="selecioneLinguagem">Select the Language</string>
+    <string name="portugues">Portuguese</string>
+    <string name="ingles">English</string>
+    <string name="espanhol">Spanish</string>
+    <string name="linguagemAlterada">Language Changed</string>
+</resources>

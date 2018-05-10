@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mudar Linguagem</string>
+
+    <string name="selecioneLinguagem">Selecione a Linguagem</string>
+    <string name="portugues">Português</string>
+    <string name="ingles">Inglês</string>
+    <string name="espanhol">Espanhol</string>
+
+    <string name="linguagemAlterada">Linguagem Alterada</string>
+</resources>
